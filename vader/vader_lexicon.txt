@@ -1,5 +1,7 @@
 bull	2.5
+bulls	3
 bear	-2.5
+bears	-3
 bullish	3
 bearish	-3
 green	2
@@ -8,6 +10,10 @@ blood	-2.5
 launching	1
 launch	1
 listing	1
+declining	-3
+fud	-3
+bug	-3
+bugs	-3.5
 $:	-1.5	0.80623	[-1, -1, -1, -1, -3, -1, -3, -1, -2, -1]
 %)	-0.4	1.0198	[-1, 0, -1, 0, 0, -2, -1, 2, -1, 0]
 %-)	-1.5	1.43178	[-2, 0, -2, -2, -1, 2, -2, -3, -2, -3]

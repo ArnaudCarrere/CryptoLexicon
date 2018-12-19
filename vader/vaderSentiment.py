@@ -73,7 +73,8 @@ SENTIMENT_LADEN_IDIOMS = {"cut the mustard": 2, "hand to mouth": -2,
                           "cooking with gas": 2, "in the black": 2,
                           "on the ball": 2, "under the weather": -2,
                           "low fees": 2, "is coming": 2, "on sale": 1,
-                          "token sale now": 2}
+                          "token sale now": 2,
+                          "rearranging the deck chairs": -3}
 
 # check for special case idioms containing lexicon words
 SPECIAL_CASE_IDIOMS = {"the shit": 3, "the bomb": 3, "bad ass": 1.5, "yeah right": -2,
